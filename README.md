@@ -92,4 +92,13 @@ Governança: subscriptions, resource groups, Azure Policy, cost management.
 Observabilidade: Azure Monitor, logs, alertas.
 IA no Azure: Cognitive Services, Azure OpenAI Service, Azure Machine Learning.
 Preço e suporte: modelos de cobrança, SLAs, planos de suporte.
-
+-----------------------------------------------------------------------------------------------------------
+Segunda Etapa de conteúdo
+Temas abordados:
+-Benefícios da Nuvem Azure
+-Benefícios da Nuvem: Escalabilidade e Elasticidade
+-Benefícios da Nuvem: Confiabilidade, Previsibilidade e Segurança
+-Benefícios da Nuvem: Governança e Gerenciabilidade
+-Benefícios da Nuvem Azure - Revisão
+Resumo Abaixo
+----------------------------------------------------------------------------------------------------------
