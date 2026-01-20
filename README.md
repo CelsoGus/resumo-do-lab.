@@ -4,11 +4,26 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Resumo da Introdução e serviços Descristos até o momento 
  Conceitos fundamentais de computação em nuvem
 
+RESPONSABILIDADE COMPARTILHADA
+
+Com o modelo de responsabilidade compartilhada, essas responsabilidades são compartilhadas entre o provedor de nuvem e o consumidor. Segurança física, energia, 
+resfriamento e conectividade de rede são responsabilidade do provedor de nuvem. O consumidor não está agrupado com o datacenter, portanto, não faria sentido que o consumidor 
+tivesse nenhuma dessas responsabilidades.
+
+Com um datacenter local, você é responsável por tudo. Com a computação em nuvem, essas responsabilidades mudam. O modelo de responsabilidade compartilhada está fortemente vinculado 
+aos tipos de serviço de nuvem (abordados posteriormente neste roteiro de aprendizagem): IaaS (infraestrutura como serviço), PaaS (plataforma como serviço) e SaaS (software como serviço).
+A IaaS coloca a maior responsabilidade sobre o consumidor, com o provedor de nuvem sendo responsável pelas questões básicas de segurança física, energia e conectividade. 
+Na outra extremidade do espectro, o SaaS coloca a maior parte da responsabilidade com o provedor de nuvem. A PaaS, sendo um meio termo entre IaaS e SaaS, está em algum lugar no meio e distribui 
+uniformemente a responsabilidade entre o provedor de nuvem e o consumidor.
+
+
 Definição: Nuvem é a entrega de recursos de TI (computação, armazenamento, rede, serviços) sob demanda via internet, com cobrança baseada em uso.
 Modelos de implantação:
 Nuvem Pública: Recursos gerenciados por provedores (ex.: Azure). Alta escala e custo inicial baixo.
 Nuvem Privada: Infraestrutura dedicada a uma organização (on-premises ou hosted). Maior controle e custo.
 Nuvem Híbrida: Integração entre nuvem pública e privada para balancear controle, custo e segurança.
+
+
 
 Modelos de Serviço:
 IaaS (Infrastructure as a Service): VMs, redes, discos — você gerencia SO e aplicações. Ex.: Azure Virtual Machines.
